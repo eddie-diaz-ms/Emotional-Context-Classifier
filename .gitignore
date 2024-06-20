@@ -1,0 +1,13 @@
+.DStore
+/Emotion
+/transferenv
+/best_model
+/fine_tuned_model
+/transfer_model
+bert_runtimes.pkl
+bert_val_accuracies.pkl
+tuned_runtimes.pkl
+tuned_val_accuracies.pkl
+emotional_context.html
+scratch_runtimes.pkl
+scratch_val_accuracies.pkl
