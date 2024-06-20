@@ -15,9 +15,9 @@ This project showcases the transfer learning process. The notebook begins by exp
 
 ## Installation
 
-```
 You will need to install the following dependencies to run the code: 
 
+```
 pip install numpy
 pip install pandas
 pip install scikit-learn
